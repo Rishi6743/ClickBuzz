@@ -1,0 +1,27 @@
+#logo {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+    font-family: monospace;
+    text-shadow: 2px 2px #fff;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  #logo:hover {
+    color: #d61313;
+    text-shadow: 2px 2px 0 10px  #d04f4f;
+    /* transform: rotate(10deg); */
+    /* font-family: sans-serif; */
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+  .font-my{
+   
+  
+      font-family: 'Montserrat', sans-serif;
+    
+    }
+  
+
+    
